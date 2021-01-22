@@ -104,4 +104,9 @@ _Trechos de código, exercícios e projetos feitos ao longo do [Curso Web Modern
             <td></td><td></td>
         </tr>
     </tbody>
+    <thead>
+        <tr>
+            <th colspan=3>Seção 5: Funções Javascript</th>
+        </tr>
+    </thead>
 </table>

@@ -71,7 +71,7 @@ _Trechos de código, exercícios e projetos feitos ao longo do [Curso Web Modern
         </tr>
         <tr>
             <td><a href="secao_3-javascript-fundamentos\50-Ternarios.js">Aula 50: Operadores Ternários</a></td>
-            <td><a href="secao_3-javascript-fundamentos\51-experimentos.js">Aula 51: contexto de Execução</a></td>
+            <td><a href="secao_3-javascript-fundamentos\51-experimentos.js">Aula 51: Contexto de Execução</a></td>
             <td><a href="secao_3-javascript-fundamentos\52-Erro.js">Aula 52: Tratamento de Erros</a></td>
         </tr>
         <tr>
@@ -80,9 +80,28 @@ _Trechos de código, exercícios e projetos feitos ao longo do [Curso Web Modern
     </tbody>
     <thead>
         <tr>
-            <th colspan=3>Seção 4: Estruturas de Controle javascript</th>
+            <th colspan=3>Seção 4: Estruturas de Controle Javascript</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td><a href="secao_4-javascript-estruturas_de_controle\55-if1.js">Aula 55: Estrutura If 1</a></td>
+            <td><a href="secao_4-javascript-estruturas_de_controle\56-if2.js">Aula 56: Estrutura If 2</a></td>
+            <td><a href="secao_4-javascript-estruturas_de_controle\57-IfElse.js">Aula 57: Estrutura If/Else</a></td>
+        </tr>
+        <tr>
+            <td><a href="secao_4-javascript-estruturas_de_controle\58-ifElseIf.js">Aula 58: Estrutura If/Else If</a></td>
+            <td><a href="secao_4-javascript-estruturas_de_controle\59-Switch.js">Aula 59: Estrutura Switch</a></td>
+            <td><a href="secao_4-javascript-estruturas_de_controle\60-While.js">Aula 60: Estrutura While</a></td>
+        </tr>
+        <tr>
+            <td><a href="secao_4-javascript-estruturas_de_controle\61-DoWhile.js">Aula 61: Estrutura Do/While</a></td>
+            <td><a href="secao_4-javascript-estruturas_de_controle\62-For1.js">Aula 62: Estrutura For</a></td>
+            <td><a href="secao_4-javascript-estruturas_de_controle\63-For2.js">Aula 63: Estrutura For/In</a></td>
+        </tr>
+        <tr>
+            <td><a href="secao_4-javascript-estruturas_de_controle\64-BreakContinue.js">Aula 64: Break/Continue</a></td>
+            <td></td><td></td>
+        </tr>
     </tbody>
 </table>

@@ -104,4 +104,59 @@ _Trechos de código, exercícios e projetos feitos ao longo do [Curso Web Modern
             <td></td><td></td>
         </tr>
     </tbody>
+    <thead>
+        <tr>
+            <th colspan=3>Seção 5: Funções Javascript</th>
+        </tr>
+    </thead>
+    <tbody>
+         <tr>
+            <td><a href="secao_5-javascript-funcao\65-CidadaoPrimeiraClasse.js">Aula 65: first-class Object</a></td>
+            <td><a href="secao_5-javascript-funcao\66-ParamsERetornoSaoOpcionais.js">Aula 66: Parâmetros e Retornos</a></td>
+            <td><a href="secao_5-javascript-funcao\67-ParamsVariaveis.js">Aula 67: Parâmetros Variáveis</a></td>
+        </tr>
+        <tr>
+            <td><a href="secao_5-javascript-funcao\68-paramPadrao.js">Aula 68: Parâmetros Padrão</a></td>
+            <td><a href="secao_5-javascript-funcao\70-ThisEBind1.js">Aula 70: This e Bind 1</a></td>
+            <td><a href="secao_5-javascript-funcao\71-ThisEBind2.js">Aula 71: This e Bind 2</a></td>
+        </tr>
+        <tr>
+            <td><a href="secao_5-javascript-funcao\72-ArrowFunction1.js">Aula 72: Arrow Function 1</a></td>
+            <td><a href="secao_5-javascript-funcao\73-ArrowFunction2.js">Aula 73: Arrow Function 2</a></td>
+            <td><a href="secao_5-javascript-funcao\74-ArrowFunction3.js">Aula 74: Arrow Function 3</a></td>
+        </tr>
+        <tr>
+            <td><a href="secao_5-javascript-funcao\75-FuncoesAnonimas.js">Aula 75: Funções Anonimas</a></td>
+            <td><a href="secao_5-javascript-funcao\76-Callback1.js">Aula 76: Callback 1</a></td>
+            <td><a href="secao_5-javascript-funcao\77-Callback2.js">Aula 77: Callback 2</a></td>
+        </tr>
+        <tr>
+            <td><a href="secao_5-javascript-funcao\78-Callback3.js">Aula 78: Callback 3</a></td>
+            <td><a href="secao_5-javascript-funcao\79-FuncaoConstrutora.js">Aula 79: Função Construtora</a></td>
+            <td><a href="secao_5-javascript-funcao\80-TiposDeclaracao.js">Aula 80: Tipos de Declaração</a></td>
+        </tr>
+        <tr>
+            <td><a href="secao_5-javascript-funcao\81-ContextoLexico.js">Aula 81: Contexto Léxico</a></td>
+            <td><a href="secao_5-javascript-funcao\82-Closure.js">Aula 82: Closure</a></td>
+            <td><a href="C:\Users\davip\Desktop\curso-web\secao_5-javascript-funcao\83-Factory1.js">Aula 83: Factory 1</a></td>
+        </tr>
+        <tr>
+            <td><a href="secao_5-javascript-funcao\84-Factory2.js">Aula 84: Factory 2</a></td>
+            <td><a href="secao_5-javascript-funcao\85-ClasseVsFactory.js">Aula 85: Classe Vs Factory</a></td>
+            <td><a href="secao_5-javascript-funcao\86-DesafioFuncaoConstrutora.js">Aula 86: Desafio função Construtora</a></td>
+        </tr>
+        <tr>
+            <td><a href="secao_5-javascript-funcao\87-IIFE.js">Aula 87: IIFE</a></td>
+            <td><a href="secao_5-javascript-funcao\88-CallApply.js">Aula 88: Call e Apply</a></td>
+            <td><a href="secao_5-javascript-funcao\89-Exercicios.js">Aula 89: Exercícios</a></td>
+        </tr>
+        <tr>
+            <td colspan=3><a href="secao_5-javascript-funcao\recursos">Recursos do módulo</a></td>
+        </tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th colspan=3>Seção 6: Objetos Javascript</th>
+        </tr>
+    </thead>
 </table>

@@ -138,7 +138,7 @@ _Trechos de código, exercícios e projetos feitos ao longo do [Curso Web Modern
         <tr>
             <td><a href="secao_5-javascript-funcao\81-ContextoLexico.js">Aula 81: Contexto Léxico</a></td>
             <td><a href="secao_5-javascript-funcao\82-Closure.js">Aula 82: Closure</a></td>
-            <td><a href="C:\Users\davip\Desktop\curso-web\secao_5-javascript-funcao\83-Factory1.js">Aula 83: Factory 1</a></td>
+            <td><a href="secao_5-javascript-funcao\83-Factory1.js">Aula 83: Factory 1</a></td>
         </tr>
         <tr>
             <td><a href="secao_5-javascript-funcao\84-Factory2.js">Aula 84: Factory 2</a></td>

@@ -159,4 +159,35 @@ _Trechos de código, exercícios e projetos feitos ao longo do [Curso Web Modern
             <th colspan=3>Seção 6: Objetos Javascript</th>
         </tr>
     </thead>
+    <tbody>
+        <tr>
+            <td><a href="secao_6-javascript-objeto\90-OO.js">Aula 90: Orientado a Objetos</a></td>
+            <td><a href="secao_6-javascript-objeto\91-ObjetoRevisao.js">Aula 91: Revisão de Objetos</a></td>
+            <td><a href="secao_6-javascript-objeto\92-CriandoObjetos.js">Aula 92: Criação de Objetos</a></td>
+        </tr>
+        <tr>
+            <td><a href="secao_6-javascript-objeto\93-ObjetosConstantes.js">Aula 93: Objetos Constantes</a></td>
+            <td><a href="secao_6-javascript-objeto\94-NotacaoLiteral.js">Aula 94: Notação Literal</a></td>
+            <td><a href="secao_6-javascript-objeto\95-GetterSetter.js">Aula 95: Getters e Setters</a></td>
+        </tr>
+        <tr>
+            <td><a href="secao_6-javascript-objeto\96-FuncoesImportantes.js">Aula 96: Funções Importantes</a></td>
+            <td><a href="secao_6-javascript-objeto\97-Heranca1.js">Aula 97: Herança 1</a></td>
+            <td><a href="secao_6-javascript-objeto\98-Heranca2.js">Aula 98: Herança 2</a></td>
+        </tr>
+        <tr>
+            <td><a href="secao_6-javascript-objeto\99-Heranca3.js">Aula 99: Herança 3</a></td>
+            <td><a href="secao_6-javascript-objeto\100-Heranca4.js">Aula 100: Herança 4</a></td>
+            <td><a href="secao_6-javascript-objeto\101-Heranca5.js">Aula 101: Herança 5</a></td>
+        </tr>
+        <tr>
+            <td><a href="secao_6-javascript-objeto\102-Heranca6.js">Aula 102: Herança 6</a></td>
+            <td><a href="secao_6-javascript-objeto\103-EvitandoModificacoes.js">Aula 103: Evitando Modificações</a></td>
+            <td><a href="secao_6-javascript-objeto\104-JsonVsObj.js">Aula 104: JSON vs Objeto</a></td>
+        </tr>
+        <tr>
+            <td><a href="secao_6-javascript-objeto\105-Classe1.js">Aula 105: Classe 1</a></td>
+            <td><a href="secao_6-javascript-objeto\106-Classe2.js">Aula 106: Classe 2</a></td>
+        </tr>
+    </tbody>
 </table>

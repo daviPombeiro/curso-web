@@ -190,4 +190,39 @@ _Trechos de código, exercícios e projetos feitos ao longo do [Curso Web Modern
             <td><a href="secao_6-javascript-objeto\106-Classe2.js">Aula 106: Classe 2</a></td>
         </tr>
     </tbody>
+    <thead>
+        <tr>
+            <th colspan=3>Seção 7: Array Javascript</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="secao_7-javascript_array\107-Array.js">Aula 107: Visão Geral</a></td>
+            <td><a href="secao_7-javascript_array\108-ArrayMetodos.js">Aula 108: Métodos Importantes</a></td>
+            <td><a href="secao_7-javascript_array\109-SimulandoArray.js">Aula 109: Simulando Array com Objeto</a></td>
+        </tr>
+        <tr>
+            <td><a href="secao_7-javascript_array\110-Foreach1.js">Aula 110: Foreach 1</a></td>
+            <td><a href="secao_7-javascript_array\111-Foreach2.js">Aula 111: Foreach 2</a></td>
+            <td><a href="secao_7-javascript_array\112-Map1.js">Aula 112:Map 1 </a></td>
+        </tr>
+        <tr>
+            <td><a href="secao_7-javascript_array\113-Map2.js">Aula 113: Map 2</a></td>
+            <td><a href="secao_7-javascript_array\114-Map3.js">Aula 114: Map 3</a></td>
+            <td><a href="secao_7-javascript_array\115-Filter1.js">Aula 115: Filter 1</a></td>
+        </tr>
+        <tr>
+            <td><a href="secao_7-javascript_array\116-Filter2.js">Aula 116: Filter 2</a></td>
+            <td><a href="secao_7-javascript_array\117-Reduce1.js">Aula 117: Reduce 1</a></td>
+            <td><a href="secao_7-javascript_array\118-Reduce2.js">Aula 118: Reduce 2</a></td>
+        </tr>
+        <tr>
+            <td><a href="secao_7-javascript_array\119-Reduce3.js">Aula 119: Reduce 3</a></td>
+            <td><a href="secao_7-javascript_array\120-ImperativoVsDeclarativo.js">Aula 120: Imperativo Vs Declarativo</a></td>
+            <td><a href="secao_7-javascript_array\121-Concat.js">Aula 121: Concat</a></td>
+        </tr>
+        <tr>
+            <td><a href="secao_7-javascript_array\122-FlatMap.js">Aula 122: FlatMap</a></td>
+        </tr>
+    </tbody>
 </table>

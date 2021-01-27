@@ -225,4 +225,39 @@ _Trechos de código, exercícios e projetos feitos ao longo do [Curso Web Modern
             <td><a href="secao_7-javascript_array\122-FlatMap.js">Aula 122: FlatMap</a></td>
         </tr>
     </tbody>
+    <thead>
+        <tr>
+            <th colspan=3>Seção 7: Array Javascript</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="secao_8-exercicios_javascript\Ex1.js">Exercício 1</a></td>
+            <td><a href="secao_8-exercicios_javascript\Ex2.js">Exercício 2</a></td>
+            <td><a href="secao_8-exercicios_javascript\Ex3.js">Exercício 3</a></td>
+        </tr>
+        <tr>
+            <td><a href="secao_8-exercicios_javascript\Ex4.js">Exercício 4</a></td>
+            <td><a href="secao_8-exercicios_javascript\Ex5.js">Exercício 5</a></td>
+            <td><a href="secao_8-exercicios_javascript\Ex6.js">Exercício 6</a></td>
+        </tr>
+        <tr>
+            <td><a href="secao_8-exercicios_javascript\Ex7.js">Exercício 7</a></td>
+            <td><a href="secao_8-exercicios_javascript\Ex8.js">Exercício 8</a></td>
+            <td><a href="secao_8-exercicios_javascript\Ex9.js">Exercício 9</a></td>
+        </tr>
+        <tr>
+            <td><a href="secao_8-exercicios_javascript\Ex10.js">Exercício 10</a></td>
+            <td><a href="secao_8-exercicios_javascript\Ex11.js">Exercício 11</a></td>
+            <td><a href="secao_8-exercicios_javascript\Ex12.js">Exercício 12</a></td>
+        </tr>
+        <tr>
+            <td><a href="secao_8-exercicios_javascript\Ex13.js">Exercício 13</a></td>
+            <td><a href="secao_8-exercicios_javascript\Ex14.js">Exercício 14</a></td>
+            <td><a href="secao_8-exercicios_javascript\Ex15.js">Exercício 15</a></td>
+        </tr>
+        <tr>
+            <td colspan=3><a href="secao_8-exercicios_javascript\recursos">Recursos do módulo</a></td>
+        </tr>
+    </tbody>
 </table>
